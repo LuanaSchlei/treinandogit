@@ -1,9 +1,9 @@
 treinandogit
 ============
 
-Treinando git
+Treinando git 
 
-# Heading 1
+# Heading 
 ## Heading 2
 ### Heading 3
 
@@ -12,7 +12,7 @@ In the words of Abraham Lincoln:
 
 > Pardon my french
 
-### Styling Text
+### Styling Texts
 *This text will be italic*
 **This text will be bold**
 
@@ -24,6 +24,7 @@ In the words of Abraham Lincoln:
 * Item 
 * Item x
 
+- Item Teste
 - Item y
 - Item c
 
@@ -31,7 +32,7 @@ In the words of Abraham Lincoln:
 
 1. Item 1
 2. Item 2
-3. item 4
+3. item 5
 
 ### Links
 [Visit github!](www.github.com)
